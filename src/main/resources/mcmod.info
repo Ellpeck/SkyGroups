@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skygroups",
+  "name": "SkyGroups",
+  "description": "A mod to add sky groups",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ellpeck"],
+  "credits": "Matt for making me do this",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
